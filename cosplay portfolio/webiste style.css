@@ -1,0 +1,72 @@
+html {
+    background-color: rgb(163, 244, 255);
+   }
+
+#navi_list{
+float: none;
+display: flex;
+
+height: 100px;
+margin-top: 0px;
+}
+
+header {
+    background-image: linear-gradient(to bottom right,#8df7ff,#f899f0);
+    margin-left:-1%;
+    width: 102%;
+}
+
+#navi_list{
+    display: flex;
+    margin-left: 1%;
+    height: 100px;
+}
+
+.bio-link{color:pink ;}
+
+.bar_item{display: block;
+background-color:pink ;
+margin-left: 45px;   
+margin-top: 20px;
+width: 250px;
+height: 60px;
+padding: 50 px;
+border-radius: 5px;}
+
+.biography{color:white;
+    font: optional;
+}
+.bio_box{background-color: #f899f0;
+height: 20cm;
+width: 30cm;
+margin-left: 20%;
+margin-top: 5%;
+border-radius: 10%;}
+
+#ABOUT_ME{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 500%;
+margin-top: -32%;
+margin-left:5%;}
+
+#bio_content{
+word-wrap: break-word;
+width: 15cm;
+font-size: 24px;
+margin-top: -0%;
+margin-left: 5%;}
+
+#pfp{height:9cm ;
+width: 7cm ;
+border-radius: 50px;
+margin-left: 65%;
+margin-top: 5%;}
+
+
+#bar_item_content{
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+    font-size: 40px;}
+.none{background-image: linear-gradient(to bottom right,#8df7ff,#f899f0);}
+
