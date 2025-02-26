@@ -28,7 +28,7 @@ header {
 background-color:pink ;
 margin-left: auto;   
 margin-top: auto;
-width: 250px;
+width: auto;
 height: 60px;
 padding: 50 px;
 border-radius: 5px;}
