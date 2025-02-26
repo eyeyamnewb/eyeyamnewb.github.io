@@ -31,7 +31,7 @@ margin-left: 4%;
 margin-top: auto;
 width: 50%;
 height: 20%;
-padding: 50 px;
+padding: 1%;
 border-radius: 5px;}
 
 .biography{color:white;
@@ -70,6 +70,6 @@ margin-top: 10%;}
     align-content: center;
     color: white;
     margin-top: 1%;
-    font-size: 240%; }
+    font-size: 220%; }
 .none{background-image: linear-gradient(to bottom right,#8df7ff,#f899f0);}
 
