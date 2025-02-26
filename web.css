@@ -5,7 +5,6 @@ html {
 #navi_list{
 float: none;
 display: flex;
-
 height: auto;
 margin-top: auto;
 }
@@ -13,13 +12,13 @@ margin-top: auto;
 header {
     background-image: linear-gradient(to bottom right,#8df7ff,#f899f0);
     margin-left:auto;
-    width: auto;
+    width: 100%;
 }
 
 #navi_list{
     display: flex;
     margin-left: -2%;
-    height: auto;
+    height: 100%;
 }
 
 .bio-link{color:pink ;}
@@ -38,7 +37,6 @@ border-radius: 5px;}
 }
 .bio_box{background-color: #f899f0;
 position: absolute;
-align-self: ;
 height: 90%;
 width: 60%;
 margin-left: 20%;
