@@ -37,10 +37,12 @@ border-radius: 5px;}
     font: optional;
 }
 .bio_box{background-color: #f899f0;
+position: absolute;
+align-self: ;
 height: 20cm;
 width: 30cm;
-margin-left: 20%;
-margin-top: 5%;
+margin-left: auto;
+margin-top: auto;
 border-radius: 10%;}
 
 #ABOUT_ME{
@@ -53,8 +55,8 @@ margin-left:5%;}
 word-wrap: break-word;
 width: 15cm;
 font-size: 24px;
-margin-top: -0%;
-margin-left: 5%;}
+margin-top: auto;
+margin-left: auto;}
 
 #pfp{height:9cm ;
 width: 7cm ;
@@ -67,6 +69,6 @@ margin-top: 5%;}
     text-align: center;
     color: white;
     margin-top: 5px;
-    font-size: 40px;}
+    font-size: 40px; }
 .none{background-image: linear-gradient(to bottom right,#8df7ff,#f899f0);}
 
